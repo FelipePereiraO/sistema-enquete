@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.painel{
+    padding: 30px;
+    margin: 100px auto;
+    min-height: 500px;
+    max-height: 500px;
+    max-width: 60%;
+    min-width: 80%;
+    background-color:#fafafa;
+    border-radius: 5px;
+    border: 2px solid #eeeeee;
+
+}
+
+
+#titulo{
+    width: 40%;
+    display: flex;
+}
+#data{
+    width: 40%;
+
+
+}
+
+#form{
+    width: 50%;
+    margin: 0 auto;
+}
+.criar{
+    margin-top: 10px;
+
+}
+.respostas{
+    margin-top: 50px;
+}
+.finalizada{
+    color: red;
+}
